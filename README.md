@@ -24,4 +24,5 @@ Parameters
 The "Set parameters" section includes variables for the categories, category words dictionary, and tokenize category detection. Modify these variables to fit the desired categories and words related to each category.
 
 Credits
+
 This project was developed by Alexis Vandriessche, Piero Rucci, Rafaella Porto and Pierre Warnier as part of Becode Ai Bootcamp. The code was developed using Python and various open-source libraries, including PyTorch, CLIP, EasyOCR, langdetect, spaCy, deep_translator, and OpenAI's GPT-3.
