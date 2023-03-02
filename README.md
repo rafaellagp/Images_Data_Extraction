@@ -1,4 +1,4 @@
-# Images_Data_Extraction
+# Images data extraction
 Image Classification for Yuliya Ph.D Candidate of UCLouvain
 
 
